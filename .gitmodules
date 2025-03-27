@@ -1,0 +1,6 @@
+[submodule "AiEstateScraper"]
+	path = AiEstateScraper
+	url = https://github.com/nazzal5448/AiEstateScraper.git
+[submodule "stream-scraper"]
+	path = stream-scraper
+	url = https://github.com/nazzal5448/stream-scraper.git
